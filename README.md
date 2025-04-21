@@ -1,4 +1,4 @@
 # shlok-demo
 This is my first git repository
-<hr>
+<br>
 Author - Shlok Mishra
